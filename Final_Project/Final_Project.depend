@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1355768822 source:e:\codeblock for usb\codeblocks\sdl\final_project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1355925256 source:f:\codeblock for usb\codeblocks\sdl\final_project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1356917866 source:g:\codeblock for usb\codeblocks\sdl\final_project\final.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1358828473 source:c:\users\helo\desktop\sdl\final_project\final.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1358948625 source:c:\users\alex\desktop\summative\final_project\final.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1358951978 source:c:\users\helo\desktop\final_project\final.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1400882018 source:c:\users\helo\documents\final_project\final.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1400882018 source:c:\users\helo\desktop\programs\final_project\final.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+

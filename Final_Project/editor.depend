@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1357344734 source:c:\users\helo\desktop\sdl\final_project\editor.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1357348336 source:c:\users\helo\desktop\final_project\editor.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
